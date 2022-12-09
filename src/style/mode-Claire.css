@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(37, 58, 58);
+    margin:auto;
+    color: white;
+}
+.head{
+    background-color: azure;
+    color:blue;
+    padding:10px;
+    padding-left: 6px;
+    
+}
+#Haume{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid silver;
+    padding-bottom: 2px;
+}
+.element{
+    border: 1px solid silver;
+    border-radius: 3px;
+    padding: 2px;
+}
